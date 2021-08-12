@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/http//victorgbaye.github.io/forbes/static/css/main.08160982.chunk.css",
-    "main.js": "/http//victorgbaye.github.io/forbes/static/js/main.1c946247.chunk.js",
-    "main.js.map": "/http//victorgbaye.github.io/forbes/static/js/main.1c946247.chunk.js.map",
-    "runtime-main.js": "/http//victorgbaye.github.io/forbes/static/js/runtime-main.b9dfa98f.js",
-    "runtime-main.js.map": "/http//victorgbaye.github.io/forbes/static/js/runtime-main.b9dfa98f.js.map",
-    "static/js/2.a2b609a4.chunk.js": "/http//victorgbaye.github.io/forbes/static/js/2.a2b609a4.chunk.js",
-    "static/js/2.a2b609a4.chunk.js.map": "/http//victorgbaye.github.io/forbes/static/js/2.a2b609a4.chunk.js.map",
-    "static/js/3.57ab4fee.chunk.js": "/http//victorgbaye.github.io/forbes/static/js/3.57ab4fee.chunk.js",
-    "static/js/3.57ab4fee.chunk.js.map": "/http//victorgbaye.github.io/forbes/static/js/3.57ab4fee.chunk.js.map",
-    "index.html": "/http//victorgbaye.github.io/forbes/index.html",
-    "static/css/main.08160982.chunk.css.map": "/http//victorgbaye.github.io/forbes/static/css/main.08160982.chunk.css.map",
-    "static/js/2.a2b609a4.chunk.js.LICENSE.txt": "/http//victorgbaye.github.io/forbes/static/js/2.a2b609a4.chunk.js.LICENSE.txt"
+    "main.css": "/forbes/static/css/main.08160982.chunk.css",
+    "main.js": "/forbes/static/js/main.1c946247.chunk.js",
+    "main.js.map": "/forbes/static/js/main.1c946247.chunk.js.map",
+    "runtime-main.js": "/forbes/static/js/runtime-main.6f56af99.js",
+    "runtime-main.js.map": "/forbes/static/js/runtime-main.6f56af99.js.map",
+    "static/js/2.a2b609a4.chunk.js": "/forbes/static/js/2.a2b609a4.chunk.js",
+    "static/js/2.a2b609a4.chunk.js.map": "/forbes/static/js/2.a2b609a4.chunk.js.map",
+    "static/js/3.57ab4fee.chunk.js": "/forbes/static/js/3.57ab4fee.chunk.js",
+    "static/js/3.57ab4fee.chunk.js.map": "/forbes/static/js/3.57ab4fee.chunk.js.map",
+    "index.html": "/forbes/index.html",
+    "static/css/main.08160982.chunk.css.map": "/forbes/static/css/main.08160982.chunk.css.map",
+    "static/js/2.a2b609a4.chunk.js.LICENSE.txt": "/forbes/static/js/2.a2b609a4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9dfa98f.js",
+    "static/js/runtime-main.6f56af99.js",
     "static/js/2.a2b609a4.chunk.js",
     "static/css/main.08160982.chunk.css",
     "static/js/main.1c946247.chunk.js"
