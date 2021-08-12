@@ -1,6 +1,6 @@
 import React from 'react'
 
-function People(people) {
+function People({people}) {
     return (
         <>
             {people.map((item)=>{
